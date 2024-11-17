@@ -1,0 +1,24 @@
+Êþº¾   = 5   entities/Movie   thrilio/entities/BookMark 
+releaseYear I cast [Ljava/lang/String; 	directors genre Ljava/lang/String; 
+imdbRating D getReleaseYear ()I Code	     LineNumberTable LocalVariableTable this Lthrilio/entities/Movie; setReleaseYear (I)V  getCast ()[Ljava/lang/String;	       setCast ([Ljava/lang/String;)V getDirectors	  ! 	  setDirectors getGenre ()Ljava/lang/String;	  & 
+ 
+ setGenre (Ljava/lang/String;)V 
+getImdbRating ()D	  ,  
+ 
+setImdbRating (D)V <init> ()V
+  2 / 0 
+SourceFile 
+Movie.java !                  	     
+ 
+     
+   
+        /     *´ ¬                               >     *µ ±       
+                                /     *´ °                               >     *+µ ±       
+                                 /     *´  °                         "      >     *+µ  ±       
+       !                	    # $     /     *´ %°           $              ' (     >     *+µ %±       
+    (  )                
+ 
+   ) *     /     *´ +¯           ,              - .     >     *'µ +±       
+    0  1                 
+   / 0     3     *· 1±       
+    3  5              3    4

@@ -1,0 +1,33 @@
+Êþº¾   = A   managers/UserManager   java/lang/Object instance Lthrillio/managers/UserManager; <clinit> ()V Code
+  
+   <init>	     LineNumberTable LocalVariableTable
+  
+ this 
+getInstance !()Lthrillio/managers/UserManager; 
+StackMapTable 
+createUser u(JLjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;)Lthrilio/entities/User;   thrilio/entities/User
+  
+
+     setId (J)V
+    ! " setEmail (Ljava/lang/String;)V
+  $ % " 
+setPassword
+  ' ( " setfName
+  * + " setlName
+  - . / 	setGender (I)V
+  1 2 " 
+setUserType id J email Ljava/lang/String; password 	firstName lastName gender I userType user Lthrilio/entities/User; 
+SourceFile UserManager.java !      
+           	   +      
+» Y· 
+³ 
+±                       	   3     *· ±       
+    
+  
+             	    	   E      ² 
+Ç 
+» Y· 
+³ 
+² 
+°                               	   Õ  
+   ;» Y· :		¶ 	-¶ 	¶ #	¶ &	¶ )	 ¶ ,	¶ 0	°       & 	    	        #  *  1   8 !    \ 	   ;       ; 3 4    ; 5 6    ; 7 6    ; 8 6    ; 9 6    ; : ;     ; < 6  	 2 = > 	  ?    @

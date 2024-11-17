@@ -1,0 +1,67 @@
+Êþº¾   = o   !managers/BookmarkManager   java/lang/Object instance #Lthrillio/managers/BookmarkManager; <clinit> ()V Code
+  
+   <init>	     LineNumberTable LocalVariableTable
+  
+ this 
+getInstance %()Lthrillio/managers/BookmarkManager; 
+createBook e(JLjava/lang/String;ILjava/lang/String;[Ljava/lang/String;Ljava/lang/String;D)Lthrilio/entities/Book;   thrilio/entities/Book
+  
+
+     setId (J)V
+     ! setTitle (Ljava/lang/String;)V
+  # $ % setPublicationYear (I)V
+  ' ( ! setPublisher
+  * + , 
+setAuthors ([Ljava/lang/String;)V
+  . / ! setGenre
+  1 2 3 setAmazonRating (D)V id J title Ljava/lang/String; publicationYear I 	publisher  authors [Ljava/lang/String; genre amazonRating D book Lthrilio/entities/Book; 
+createMovie g(JLjava/lang/String;I[Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;D)Lthrilio/entities/Movie;  E thrilio/entities/Movie
+ D 
+
+ D H I % setReleaseYear
+ D K L ,  setCast
+ D N O , setDirectors
+ D .
+ D R S 3 
+setImdbRating
+ D 
+ D  
+releaseYear cast 	directors 
+imdbRating movie Lthrilio/entities/Movie; 
+createWebLink S(JLjava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lthrilio/entities/WebLink;  _ thrilio/entities/WebLink
+ ^ 
+
+ ^ 
+ ^ 
+ ^ d e ! setUrl
+ ^ g h !  setHost url host  webLink Lthrilio/entities/WebLink; 
+SourceFile BookmarkManager.java !      
+           	   +      
+» Y· 
+³ 
+±           	           	   3     *· ±       
+      
+             	    	   $      ² 
+°                      	   Õ  
+   ;» Y· :
+
+¶ 
+-¶ 
+¶ "
+¶ &
+¶ )
+ ¶ -
+¶ 0
+°       & 	    	        #  *  1  8     \ 	   ;       ; 4 5    ; 6 7    ; 8 9    ; : 7    ; ; <    ; = 7     ; > ?  	 2 @ A 
+  B C  	   Õ  
+   ;» DY· F:
+
+¶ G
+¶ J
+¶ M
+ ¶ P
+¶ Q
+¶ T
+-¶ U
+°       & 	   # 	 %  &  '  ( % ) , * 2 + 8 ,    \ 	   ;       ; 4 5    ; 6 7    ; V 9    ; W <    ; X <    ; = 7     ; Y ?  	 2 Z [ 
+  \ ]  	   –      &» ^Y· `:¶ a-¶ b¶ c¶ f°           2 	 3  4  5  6 # 7    >    &       & 4 5    & 6 7    & i 7    & j 7  	  k l   m    n

@@ -1,0 +1,24 @@
+Êþº¾   = <   entities/User   java/lang/Object id J email Ljava/lang/String; password fName lName gender I userType getId ()J Code	     LineNumberTable LocalVariableTable this Lthrilio/entities/User; setId (J)V getEmail ()Ljava/lang/String;	      setEmail (Ljava/lang/String;)V 
+getPassword	  " 	  
+setPassword getfName	  & 
+  setfName getlName	  * 
+  setlName 	getGender ()I	  /  
+ 	setGender (I)V 
+getUserType	  4   
+setUserType <init> ()V
+  9 6 7 
+SourceFile 	User.java !                   	     
+     
+      
+                /     *´ ­                               >     *µ ±       
+                                /     *´ °                               >     *+µ ±       
+                                  /     *´ !°                         #      >     *+µ !±       
+    "  #                	    $      /     *´ %°           &              '      >     *+µ %±       
+    *  +                
+    (      /     *´ )°           .              +      >     *+µ )±       
+    2  3                
+    , -     /     *´ .¬           6              0 1     >     *µ .±       
+    :  ;                 
+   2      /     *´ 3°           >              5      >     *+µ 3±       
+    B  C                    6 7     3     *· 8±       
+    E  G              :    ;

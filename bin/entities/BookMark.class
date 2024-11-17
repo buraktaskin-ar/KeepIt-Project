@@ -1,0 +1,17 @@
+Êþº¾   = %   entities/BookMark   java/lang/Object id J title Ljava/lang/String; 
+profileUrl <init> ()V Code
+   
+ 
+ LineNumberTable LocalVariableTable this Lentities/BookMark; getId ()J	     setId (J)V getTitle ()Ljava/lang/String;	      setTitle (Ljava/lang/String;)V 
+getProfileUrl	  ! 	  
+setProfileUrl 
+SourceFile 
+BookMark.java !                  	       
+ 
+     3     *· 
+±       
+    	  
+                    /     *´ ­                               >     *µ ±       
+                                /     *´ °                               >     *+µ ±       
+                                 /     *´  °                         "      >     *+µ  ±       
+    "  #                	    #    $
