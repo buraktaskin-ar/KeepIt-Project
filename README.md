@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Burak Taskin</h1>
-<h3 align="center">A passionate software developer from Turkiye</h3>
-
-- 🌱 I’m currently learning **Microservices**
-
-- 👯 I’m looking to collaborate on **Spring Boot Projects**
-
-- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **burak.taskin.bsnss@gmail.com**
 
