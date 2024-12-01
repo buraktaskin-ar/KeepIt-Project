@@ -25,5 +25,5 @@
     KeepIt is a console-based Java application designed as a bookmark management system, allowing users to add, manage, and download web pages for offline viewing. 
     The project is developed following the <strong>Model-View-Controller (MVC)</strong> architecture; a <strong>command-line interface (CLI)</strong> serves as the view component, while 
     database integration is achieved using <strong>JDBC</strong> and <strong>MySQL</strong> for data storage and retrieval. Key features include asynchronous web page downloading using 
-    <strong>ExecutorService</strong>, adherence to clean code principles, and data management through the MVC structure.
+    <strong>ExecutorService</strong>, adherence to clean code principles, and data management through the MVC structure.The key aspect of this project is downloading web pages using modern multithreading methods. I will soon share a blog post on Medium, thoroughly explaining all the code in detail.
 </p>
